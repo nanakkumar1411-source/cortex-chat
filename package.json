@@ -1,0 +1,7 @@
+{
+  "name": "cortex-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A streaming AI chat app powered by Claude, ready to deploy on Vercel."
+}
